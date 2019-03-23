@@ -1,5 +1,0 @@
-#!/bin/bash
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
-cd $DIR
-mpg123 push_it.mp3 
-exit 0
